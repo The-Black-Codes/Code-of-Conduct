@@ -1,7 +1,7 @@
 # Code-of-Conduct
-##The Black Codes Code of Conduct
+## The Black Codes Code of Conduct
 
-###Code of Conduct
+### Code of Conduct
 In the spirit of fostering a vibrant and engaged technology community, the Black Codes first and foremost wishes to foster a sense of welcomeness and inclusion. We share these guidelines in hopes of making whatever avenue we engage in a place for people to feel empowered to share their experiences, opinions, and perspectives while feeling respected and respecting others.
 Please do
 Treat others online as you would treat them in real life
